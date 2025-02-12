@@ -1,0 +1,8 @@
+Benefícios das funções:
+    - Reaproveitar o código já feito em outro local
+    - Se muda os requisitos do projeto precisa ficar mudando em cada projeto
+        - E se repetir em muitos projetos tem que mudar em muitos lugares
+        - Vantagem é que muda o código apenas na função e não em muitos códigos diferentes 
+        
+    - Em uma função há um input, o processo e então o output
+    - Toda função em python tem um return e os parâmetros
